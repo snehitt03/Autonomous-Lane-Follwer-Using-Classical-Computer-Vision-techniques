@@ -6,6 +6,10 @@ https://snehitt03.github.io/Autonomous-Lane-Follwer-Using-Classical-Computer-Vis
     <img src="Signal_Flow.png" alt="Signal and Data flow in the System" width="600">
     <p><em>Figure 1: Signal and Data flow in the System</em></p>
   </div>
+<blockquote>
+    This system has a oneway response time of 84.13 ms (i.e. from the instant the frame is captured ,then processed and the Esp32 implements the decision sent by the processor(Laptop)).
+    </blockquote>
+    
 <section id="block-diagram">
   <h2>Block Diagram</h2>
   <p>
