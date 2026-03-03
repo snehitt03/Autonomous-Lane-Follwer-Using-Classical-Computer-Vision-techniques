@@ -1,4 +1,4 @@
-Here is the demo of the videos.
+Here are the demo videos of this autonomous system.
 https://snehitt03.github.io/Autonomous-Lane-Follwer-Using-Classical-Computer-Vision-techniques/
 
 <section id="block-diagram">
