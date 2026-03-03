@@ -10,7 +10,7 @@ https://snehitt03.github.io/Autonomous-Lane-Follwer-Using-Classical-Computer-Vis
   </p>
 
   <div align="center">
-    <img src="Block Diagram SDP.png" alt="Lane and obstacle detection Workflow" width="600">
+    <img src="Block Diagram.png" alt="Lane and obstacle detection Workflow" width="600">
     <p><em>Figure 1: Lane and obstacle detection Workflow</em></p>
   </div>
   
