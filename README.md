@@ -68,5 +68,9 @@ https://snehitt03.github.io/Autonomous-Lane-Follwer-Using-Classical-Computer-Vis
     <li>Moving straight</li>
     <li>Stopping (Emergency Brake)</li>
   </ul>
-  <p>These commands can be transmitted to a microcontroller (<strong>ESP32</strong>) for physical vehicle control.</p>
+  <p>These commands are transmitted to the microcontroller (<strong>ESP32</strong>) for physical vehicle control.</p>
+  <div align="center">
+    <img src="control_flow.png" alt="Control flow" width="600">
+    <p><em>Figure 3: Control flow</em></p>
+  </div>
 </section>
