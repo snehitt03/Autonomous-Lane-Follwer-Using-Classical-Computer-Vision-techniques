@@ -11,10 +11,13 @@ https://snehitt03.github.io/Autonomous-Lane-Follwer-Using-Classical-Computer-Vis
 
   <div align="center">
     <img src="Block Diagram.png" alt="Lane and obstacle detection Workflow" width="600">
-    <p><em>Figure 1: Lane and obstacle detection Workflow</em></p>
+    <p><em>Figure 1: High Level Lane and obstacle detection Workflow</em></p>
   </div>
   
-  
+  <div align="center">
+    <img src="block_diagram_ll.png" alt="Low level overview of the system workflow" width="600">
+    <p><em>Figure 2: Low Level overview of the System Workflow</em></p>
+  </div>
 
   <hr>
 
