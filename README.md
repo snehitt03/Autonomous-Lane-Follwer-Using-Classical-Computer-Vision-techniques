@@ -2,6 +2,10 @@ Here are the demo videos of this autonomous system.
 
 https://snehitt03.github.io/Autonomous-Lane-Follwer-Using-Classical-Computer-Vision-techniques/
 
+<div align="center">
+    <img src="Signal_Flow.png" alt="Signal and Data flow in the System" width="600">
+    <p><em>Figure 1: Signal and Data flow in the System</em></p>
+  </div>
 <section id="block-diagram">
   <h2>Block Diagram</h2>
   <p>
@@ -12,12 +16,12 @@ https://snehitt03.github.io/Autonomous-Lane-Follwer-Using-Classical-Computer-Vis
 
   <div align="center">
     <img src="Block Diagram.png" alt="Lane and obstacle detection Workflow" width="600">
-    <p><em>Figure 1: High Level Lane and obstacle detection Workflow</em></p>
+    <p><em>Figure 2: High Level Lane and obstacle detection Workflow</em></p>
   </div>
   
   <div align="center">
     <img src="block_diagram_ll.png" alt="Low level overview of the system workflow" width="600">
-    <p><em>Figure 2: Low Level overview of the System Workflow</em></p>
+    <p><em>Figure 3: Low Level overview of the System Workflow</em></p>
   </div>
 
   <hr>
@@ -75,6 +79,6 @@ https://snehitt03.github.io/Autonomous-Lane-Follwer-Using-Classical-Computer-Vis
   <p>These commands are transmitted to the microcontroller (<strong>ESP32</strong>) for physical vehicle control.</p>
   <div align="center">
     <img src="control_flow.png" alt="Control flow" width="600">
-    <p><em>Figure 3: Control flow</em></p>
+    <p><em>Figure 4: Control flow</em></p>
   </div>
 </section>
